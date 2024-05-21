@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1715402622 source:c:\users\usuario\git\test_code_blocks\quadtreeimging\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1715397846 c:\users\usuario\git\test_code_blocks\quadtreeimging\resource.h
+
+1715403948 source:c:\users\usuario\git\test_code_blocks\quadtreeimging\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<string>
+	<vector>
+	<math.h>
+
+1715402622 source:c:\users\usuario\git\test_code_blocks\quad_tree\quadtreeimging_rev\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1715397846 c:\users\usuario\git\test_code_blocks\quad_tree\quadtreeimging_rev\resource.h
+
+1716215933 source:c:\users\usuario\git\test_code_blocks\quad_tree\quadtreeimging_rev\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<string>
+	<vector>
+	<math.h>
+
