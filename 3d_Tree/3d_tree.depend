@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1716113688 source:c:\users\usuario\git\test_code_blocks\kd_tree\3d_tree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1715913933 c:\users\usuario\git\test_code_blocks\kd_tree\3d_tree\resource.h
+
+1716265527 source:c:\users\usuario\git\test_code_blocks\kd_tree\3d_tree\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<math.h>
+	<wingdi.h>
+	<gdiplus.h>
+
