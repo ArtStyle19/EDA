@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1715005657 source:c:\users\usuario\git\test_code_blocks\my_kd_tree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1715005742 c:\users\usuario\git\test_code_blocks\my_kd_tree\resource.h
+
+1715416488 source:c:\users\usuario\git\test_code_blocks\my_kd_tree\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<math.h>
+
+1715008077 source:c:\users\usuario\git\test_code_blocks\test_xd.cpp
+	<vector>
+	<iostream>
+	<string>
+
+1715005657 source:c:\users\usuario\git\test_code_blocks\kd_tree\2dtree_rev\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1715005742 c:\users\usuario\git\test_code_blocks\kd_tree\2dtree_rev\resource.h
+
+1716217588 source:c:\users\usuario\git\test_code_blocks\kd_tree\2dtree_rev\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<math.h>
+
